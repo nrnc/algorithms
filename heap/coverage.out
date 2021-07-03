@@ -1,0 +1,12 @@
+mode: set
+github.com/nchukkaio/algorithms/heap/heap.go:5.33,7.2 1 0
+github.com/nchukkaio/algorithms/heap/heap.go:9.31,11.2 1 1
+github.com/nchukkaio/algorithms/heap/heap.go:13.32,15.2 1 1
+github.com/nchukkaio/algorithms/heap/heap.go:17.33,23.31 5 1
+github.com/nchukkaio/algorithms/heap/heap.go:26.2,26.37 1 1
+github.com/nchukkaio/algorithms/heap/heap.go:29.2,29.18 1 1
+github.com/nchukkaio/algorithms/heap/heap.go:23.31,25.3 1 1
+github.com/nchukkaio/algorithms/heap/heap.go:26.37,28.3 1 1
+github.com/nchukkaio/algorithms/heap/heap.go:29.18,32.3 2 1
+github.com/nchukkaio/algorithms/heap/heap.go:35.30,37.35 2 1
+github.com/nchukkaio/algorithms/heap/heap.go:37.35,39.3 1 1
