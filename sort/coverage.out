@@ -1,0 +1,20 @@
+mode: set
+github.com/nchukkaio/algorithms/sort/insertion_sort.go:3.31,4.32 1 1
+github.com/nchukkaio/algorithms/sort/insertion_sort.go:4.32,5.26 1 1
+github.com/nchukkaio/algorithms/sort/insertion_sort.go:5.26,6.25 1 1
+github.com/nchukkaio/algorithms/sort/insertion_sort.go:6.25,8.5 1 1
+github.com/nchukkaio/algorithms/sort/insertion_sort.go:8.10,9.10 1 1
+github.com/nchukkaio/algorithms/sort/merge_sort.go:5.41,7.35 2 1
+github.com/nchukkaio/algorithms/sort/merge_sort.go:7.35,8.22 1 1
+github.com/nchukkaio/algorithms/sort/merge_sort.go:11.3,13.9 3 1
+github.com/nchukkaio/algorithms/sort/merge_sort.go:8.22,10.4 1 1
+github.com/nchukkaio/algorithms/sort/merge_sort.go:17.23,26.21 9 1
+github.com/nchukkaio/algorithms/sort/merge_sort.go:26.21,27.19 1 1
+github.com/nchukkaio/algorithms/sort/merge_sort.go:27.19,30.4 2 1
+github.com/nchukkaio/algorithms/sort/merge_sort.go:30.9,30.27 1 1
+github.com/nchukkaio/algorithms/sort/merge_sort.go:30.27,33.4 2 1
+github.com/nchukkaio/algorithms/sort/merge_sort.go:33.9,34.30 1 1
+github.com/nchukkaio/algorithms/sort/merge_sort.go:34.30,37.5 2 1
+github.com/nchukkaio/algorithms/sort/merge_sort.go:37.10,40.5 2 1
+github.com/nchukkaio/algorithms/sort/merge_sort.go:45.27,47.11 2 1
+github.com/nchukkaio/algorithms/sort/merge_sort.go:47.11,51.3 3 1
