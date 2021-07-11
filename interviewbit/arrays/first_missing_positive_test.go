@@ -2,13 +2,13 @@ package arrays
 
 import "testing"
 
-type Problem1 struct {
+type ProblemFirstMissingPositive struct {
 	input  []int
 	output int
 }
 
 func TestFirstMissingPositive(t *testing.T) {
-	testCases := []Problem1{
+	testCases := []ProblemFirstMissingPositive{
 		{
 			input:  []int{1, 2, 0},
 			output: 3,
